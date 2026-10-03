@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Arya Jadhav 👋
 
-<!--
-**jadhav-arya/jadhav-arya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year Data Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- Python
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interested In:
+- Software Development
+- Data Science
+
+📚 Currently Working On:
+- Python basics and practice programs
+- C++ basics and practice programs
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/arya-jadhav-2a9709424
